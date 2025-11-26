@@ -31,3 +31,6 @@ To build for a use in a Dockerfile:
 ```bash
 npm run build
 ```
+
+## Releases
+Releases will trigger an image build and upload to Docker Hub.
